@@ -1,0 +1,1 @@
+this AI was one i made after vaguely learning about neural networks, at the time LLMs and such did not exist as they do now (it was in 2023). this was me playing around with them.
